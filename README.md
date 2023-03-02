@@ -11,6 +11,8 @@ Slide de introdução: https://docs.google.com/presentation/d/1Q0mR54gKGYy_weEbh
 
 * Materiais de suporte e consulta
 
-TQS Básico - Leiaut Carielo: https://youtube.com/playlist?list=PL-jiHjHt4KXsim0c3iNhgc9I71QHURr_n
+TQS Básico - Leiaut Carielo (2019): https://youtube.com/playlist?list=PL-jiHjHt4KXsim0c3iNhgc9I71QHURr_n
 
-TQS AG Treinamento - TQS: https://docs.tqs.com.br/
+TQS AG Treinamento - TQS Docs (atualizado): https://docs.tqs.com.br/Docs/Details?id=3198&la
+
+
